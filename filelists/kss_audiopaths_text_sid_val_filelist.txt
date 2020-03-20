@@ -1,0 +1,59 @@
+/home/jwyang/dataset/path_to_kss/4/4_1435.wav|갈수록 먹고살기가 힘들어요.|0
+/home/jwyang/dataset/path_to_kss/4/4_1668.wav|네 말은 전혀 근거가 없어.|0
+/home/jwyang/dataset/path_to_kss/2/2_0573.wav|찬물로 샤워를 했더니 기분이 상쾌해.|0
+/home/jwyang/dataset/path_to_kss/3/3_1803.wav|그는 인내심을 가지고 조용히 딸을 타일렀다.|0
+/home/jwyang/dataset/path_to_kss/1/1_0303.wav|외국인에게 태권도를 가르치고 있어요.|0
+/home/jwyang/dataset/path_to_kss/4/4_5021.wav|네가 베개 밑에 돈 숨긴 거 다 알아.|0
+/home/jwyang/dataset/path_to_kss/4/4_1037.wav|머리 드라이해 주세요.|0
+/home/jwyang/dataset/path_to_kss/3/3_3439.wav|제주도의 관광 산업이 호경기를 누리고 있다.|0
+/home/jwyang/dataset/path_to_kss/4/4_0382.wav|될 수 있으면 빚은 안 지는 게 좋아.|0
+/home/jwyang/dataset/path_to_kss/3/3_2123.wav|고기를 바싹 익혀 주세요.|0
+/home/jwyang/dataset/path_to_kss/3/3_3437.wav|이 계획은 물가 안정에 초점을 맞추고 있다.|0
+/home/jwyang/dataset/path_to_kss/4/4_2285.wav|일 회 월드컵은 천구백삼십 년 우루과이에서 열렸다.|0
+/home/jwyang/dataset/path_to_kss/3/3_1199.wav|저는 제 방식대로 할게요.|0
+/home/jwyang/dataset/path_to_kss/3/3_0139.wav|저는 겨드랑이에서 땀이 과도하게 났었어요.|0
+/home/jwyang/dataset/path_to_kss/1/1_0192.wav|밧줄을 너무 세게 당겨서 끊어졌어.|0
+/home/jwyang/dataset/path_to_kss/4/4_1355.wav|여기 앉으세요.|0
+/home/jwyang/dataset/path_to_kss/3/3_4280.wav|실례지만, 이 근처 식당 좀 가르쳐 주실래요?|0
+/home/jwyang/dataset/path_to_kss/4/4_2391.wav|이 말은 편지의 인사말로 쓰이는 형식적인 표현이에요.|0
+/home/jwyang/dataset/path_to_kss/4/4_4758.wav|실례지만, 은행이 어디 있나요?|0
+/home/jwyang/dataset/path_to_kss/4/4_3887.wav|그는 주식으로 전 재산을 날렸어요.|0
+/home/jwyang/dataset/path_to_kss/1/1_0120.wav|기름을 가득 채워 주세요.|0
+/home/jwyang/dataset/path_to_kss/1/1_0378.wav|그 일은 내 동생과 관련돼 있어.|0
+/home/jwyang/dataset/path_to_kss/4/4_3470.wav|마침 빈 좌석이 하나 있었어요.|0
+/home/jwyang/dataset/path_to_kss/4/4_1512.wav|결국 양 팀은 승부를 가리지 못했어요.|0
+/home/jwyang/dataset/path_to_kss/2/2_1061.wav|틀림없어?|0
+/home/jwyang/dataset/path_to_kss/3/3_0235.wav|생선이 너무 짠데.|0
+/home/jwyang/dataset/path_to_kss/2/2_1103.wav|한심한 소리 좀 하지 마.|0
+/home/jwyang/dataset/path_to_kss/3/3_4732.wav|말해 봤자 입만 아파.|0
+/home/jwyang/dataset/path_to_kss/3/3_4105.wav|곧 돌아올게.|0
+/home/jwyang/dataset/path_to_kss/4/4_3926.wav|저는 날아오는 공을 간신히 피했어요.|0
+/home/jwyang/dataset/path_to_kss/3/3_4982.wav|최우수|0
+/home/jwyang/dataset/path_to_kss/3/3_2382.wav|제 대학교수님이 주례를 서 주셨어요.|0
+/home/jwyang/dataset/path_to_kss/1/1_0549.wav|자동차 조심해.|0
+/home/jwyang/dataset/path_to_kss/4/4_2853.wav|현재 점수는 사 대 사예요.|0
+/home/jwyang/dataset/path_to_kss/2/2_0688.wav|좋은 약은 입에 쓴 법이야.|0
+/home/jwyang/dataset/path_to_kss/2/2_0182.wav|밤이 깊었는데 무슨 일로 찾아왔어?|0
+/home/jwyang/dataset/path_to_kss/3/3_2403.wav|학생 할인이 됩니까?|0
+/home/jwyang/dataset/path_to_kss/4/4_4212.wav|네 의견에 백 퍼센트 찬성이야.|0
+/home/jwyang/dataset/path_to_kss/3/3_4831.wav|파티에 온 사람들은 모두 내가 모르는 사람들이었다.|0
+/home/jwyang/dataset/path_to_kss/3/3_3975.wav|나비 한 마리가 하늘을 훨훨 날고 있다.|0
+/home/jwyang/dataset/path_to_kss/3/3_1535.wav|그런 식으로 일을 그만둔 것은 경솔한 짓이었어요.|0
+/home/jwyang/dataset/path_to_kss/3/3_4584.wav|그 사람하고 대화를 한다는 건 여간 힘든 일이 아냐.|0
+/home/jwyang/dataset/path_to_kss/1/1_0811.wav|그가 난로에 불을 피웠다.|0
+/home/jwyang/dataset/path_to_kss/2/2_0117.wav|그는 적들과 과감히 맞서 싸웠다.|0
+/home/jwyang/dataset/path_to_kss/4/4_5278.wav|우리는 모두 법을 지킬 의무가 있다.|0
+/home/jwyang/dataset/path_to_kss/3/3_0818.wav|오늘 밤은 신나게 놀자.|0
+/home/jwyang/dataset/path_to_kss/3/3_0705.wav|딸아이가 지금 아파서 병원에 있어요.|0
+/home/jwyang/dataset/path_to_kss/4/4_2788.wav|저희는 아침 식사를 무료로 제공합니다.|0
+/home/jwyang/dataset/path_to_kss/3/3_2818.wav|채널 십삼 번에서 한국 대 일본의 축구 경기를 하고 있다.|0
+/home/jwyang/dataset/path_to_kss/4/4_1364.wav|이 책은 살 만한 가치가 없어.|0
+/home/jwyang/dataset/path_to_kss/2/2_0939.wav|저는 조용한 음악을 즐겨 듣습니다.|0
+/home/jwyang/dataset/path_to_kss/4/4_4013.wav|나는 저녁을 먹고 나서 항상 녹차를 마셔.|0
+/home/jwyang/dataset/path_to_kss/3/3_0383.wav|청소기 어디에 뒀어?|0
+/home/jwyang/dataset/path_to_kss/3/3_5020.wav|남자답게 굴어라.|0
+/home/jwyang/dataset/path_to_kss/4/4_2846.wav|태풍이 점차 강해지고 있어요.|0
+/home/jwyang/dataset/path_to_kss/3/3_0871.wav|나한테 화났어?|0
+/home/jwyang/dataset/path_to_kss/3/3_4423.wav|가까이 와 봐.|0
+/home/jwyang/dataset/path_to_kss/4/4_4893.wav|송편은 한국 사람들이 추석에 먹는 특별한 음식이에요.|0
+/home/jwyang/dataset/path_to_kss/4/4_3725.wav|한낮에는 무더웠는데 지금은 시원해.|0
