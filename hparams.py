@@ -24,8 +24,10 @@ def create_hparams(hparams_string=None, verbose=False):
         ################################
         # Data Parameters             #
         ################################
-        training_files='filelists/kss_audiopaths_text_sid_train_filelist.txt',
-        validation_files='filelists/kss_audiopaths_text_sid_val_filelist.txt',
+        # training_files='filelists/kss_audiopaths_text_sid_train_filelist.txt',
+        # validation_files='filelists/kss_audiopaths_text_sid_val_filelist.txt',
+        training_files='filelists/zeroth_audiopaths_text_sid_train_filelist.txt',
+        validation_files='filelists/zeroth_audiopaths_text_sid_val_filelist.txt',
         text_cleaners=['transliteration_cleaners'],    # english_cleaners
         p_arpabet=1.0,
         cmudict_path="data/cmu_dictionary",
@@ -85,7 +87,7 @@ def create_hparams(hparams_string=None, verbose=False):
         postnet_n_convolutions=5,
 
         # Speaker embedding
-        n_speakers=85,
+        n_speakers=32,
         speaker_embedding_dim=128,
 
         # Reference encoder
@@ -110,7 +112,7 @@ def create_hparams(hparams_string=None, verbose=False):
         learning_rate_anneal=50000,
         weight_decay=1e-6,
         grad_clip_thresh=1.0,
-        batch_size=128,
+        batch_size=32, # KSS = 128
         mask_padding=True,  # set model's padded outputs to padded values
 
     )
