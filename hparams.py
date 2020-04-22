@@ -14,7 +14,7 @@ def create_hparams(hparams_string=None, verbose=False):
         seed=1234,
         dynamic_loss_scaling=True,
         fp16_run=False,
-        distributed_run=False,
+        distributed_run=True,
         dist_backend="nccl",
         dist_url="tcp://localhost:54321",
         cudnn_enabled=True,
@@ -24,10 +24,12 @@ def create_hparams(hparams_string=None, verbose=False):
         ################################
         # Data Parameters             #
         ################################
-        training_files='filelists/ljs_audiopaths_text_sid_train_filelist.txt',
-        validation_files='filelists/ljs_audiopaths_text_sid_val_filelist.txt',
-        text_cleaners=['english_cleaners'],
-        p_arpabet=1.0,
+        training_files='filelists/kss_audiopaths_text_sid_train_filelist.txt',
+        validation_files='filelists/kss_audiopaths_text_sid_val_filelist.txt',
+        # training_files='filelists/ljs_audiopaths_text_sid_train_filelist.txt',
+        # validation_files='filelists/ljs_audiopaths_text_sid_val_filelist.txt',
+        text_cleaners=['korean_cleaners'],
+        p_arpabet=0.0,
         cmudict_path="data/cmu_dictionary",
 
         ################################
@@ -104,13 +106,13 @@ def create_hparams(hparams_string=None, verbose=False):
         ################################
         # Optimization Hyperparameters #
         ################################
-        use_saved_learning_rate=False,
+        use_saved_learning_rate=True,
         learning_rate=1e-3,
         learning_rate_min=1e-5,
         learning_rate_anneal=50000,
         weight_decay=1e-6,
         grad_clip_thresh=1.0,
-        batch_size=32,
+        batch_size=128,
         mask_padding=True,  # set model's padded outputs to padded values
 
     )
