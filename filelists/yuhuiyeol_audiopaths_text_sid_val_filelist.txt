@@ -1,0 +1,80 @@
+/home/jwyang/dataset/yuhuiyeol/1347.wav|나는 줄곧 하루에 열시간이 넘게 그림을 그리고 있다.wav|1
+/home/jwyang/dataset/yuhuiyeol/2217.wav|잘 나오는 각도가 존재를 하죠 그래서 셀카같은 거 찍을 때 여자분들은 귀신처럼 알고요.wav|1
+/home/jwyang/dataset/yuhuiyeol/1918.wav|어마어마한 현장이었는데.wav|1
+/home/jwyang/dataset/yuhuiyeol/0619.wav|안그래도 나의 안부가 궁금했다고 먼저 말해주었다.wav|1
+/home/jwyang/dataset/yuhuiyeol/1981.wav|예술의 전당 오페라하우스 자유소극장에서 열리는.wav|1
+/home/jwyang/dataset/yuhuiyeol/1168.wav|그 후에 마트에서 뭘 샀고 어떻게 계산하고 어떻게 집에 온 건지 모르겠다.wav|1
+/home/jwyang/dataset/yuhuiyeol/0429.wav|무엇을 할 수 있을까가 아니라 무엇이 되어있을까를 걱정하는 젊음.wav|1
+/home/jwyang/dataset/yuhuiyeol/1777.wav|술먹고 한시간 산길 헤메는 거 그럴 수 있는 거잖아요.wav|1
+/home/jwyang/dataset/yuhuiyeol/2095.wav|이 곳까지 온 나에 대한 조금의 자책과.wav|1
+/home/jwyang/dataset/yuhuiyeol/0223.wav|나는 혹시 이게 꿈이 아닐까 라고 생각했다.wav|1
+/home/jwyang/dataset/yuhuiyeol/1043.wav|현실 속 나이는 모른 척 하면서 어린아이처럼 살고 싶었던 거 같다.wav|1
+/home/jwyang/dataset/yuhuiyeol/0610.wav|아시는 분들은 좀 보내주십시오 이거 해석을 좀 해주셔가지구요.wav|1
+/home/jwyang/dataset/yuhuiyeol/2372.wav|천구백이십년대 이전만 해도 국내에서 여성 싱어송라이터는 거의 찾아보기가 힘들었죠.wav|1
+/home/jwyang/dataset/yuhuiyeol/2742.wav|며칠동안 아니라고 부정도 하고 막고 외면도 해봤는데 결국 좋아하는 사람이 생겨 버린거 있죠 .wav|1
+/home/jwyang/dataset/yuhuiyeol/2641.wav|그리고 저 이번달 지출이 너무해서 연말공연 취소했거든요.wav|1
+/home/jwyang/dataset/yuhuiyeol/2155.wav|이십삼년동안 엄마의 이름은 줄곧 나에게 엄마였듯이.wav|1
+/home/jwyang/dataset/yuhuiyeol/1040.wav|헤어지던 날의 이야기들.wav|1
+/home/jwyang/dataset/yuhuiyeol/1630.wav|물론 그 음악 자체가 훌륭하기도 하겠지만 음악을 감상하던 우리들의 자세도.wav|1
+/home/jwyang/dataset/yuhuiyeol/1103.wav|고마워요 야근하는데 힘이 됩니다.wav|1
+/home/jwyang/dataset/yuhuiyeol/1261.wav|그렇게 익숙했던 것들은 하나씩 사라져가요.wav|1
+/home/jwyang/dataset/yuhuiyeol/1427.wav|노트북에 미처 지우지 않고 꺼버린 엄마가 쓴 글이 있어서 이렇게 올리고 가요.wav|1
+/home/jwyang/dataset/yuhuiyeol/2538.wav|걷기좋은 장소는 대구에 그 살고있는데 저희 동네에는 수성못 이라는 곳이 있어요.wav|1
+/home/jwyang/dataset/yuhuiyeol/2166.wav|이젠 발권된 티켓도 깨끗한 종이로 바뀌고.wav|1
+/home/jwyang/dataset/yuhuiyeol/1636.wav|미뤄서 짐작할 수 있는 글들.wav|1
+/home/jwyang/dataset/yuhuiyeol/1270.wav|그리고 다음부터는 막차 꼭 타고 들어갈게요 순찰차 안 얻어 타고요.wav|1
+/home/jwyang/dataset/yuhuiyeol/1014.wav|하지만 불어오는 바람에 꽁초의 불씨가 다시 집으로 날아들었고 그것도 까맣게 모른 채 두 분은 외출을 하신거다.wav|1
+/home/jwyang/dataset/yuhuiyeol/1738.wav|생일 축하해요 팔일사사님.wav|1
+/home/jwyang/dataset/yuhuiyeol/0143.wav|그렇게 되고 싶었떤 마흔 살에 쪼금 더 다가가는 건데.wav|1
+/home/jwyang/dataset/yuhuiyeol/3004.wav|제가 이러다가 진짜 암생겨요 암생기겠네요 라고.wav|1
+/home/jwyang/dataset/yuhuiyeol/2092.wav|의사 선생님이나 병원 뭐 의학에 관련된 그런 것들만 또 눈에 띄게 되기도 하구요.wav|1
+/home/jwyang/dataset/yuhuiyeol/0702.wav|오년의 시간이 지났지만 나에겐 먼지쨈같은 기억이다.wav|1
+/home/jwyang/dataset/yuhuiyeol/0402.wav|맑은 대낮에 만나 세시간 정도 이야기를 나눴어요.wav|1
+/home/jwyang/dataset/yuhuiyeol/2057.wav|우리 엄마 설마 웃자고 하시는 말씀은 아니신 거 같고.wav|1
+/home/jwyang/dataset/yuhuiyeol/0600.wav|아버지의 부도로 부도 전에 있던 모든 기억은 다 잊고 살았습니다.wav|1
+/home/jwyang/dataset/yuhuiyeol/1979.wav|예 오늘 하루 좀 몰아서 소개해 드리고 있져.wav|1
+/home/jwyang/dataset/yuhuiyeol/0598.wav|아무튼 처음엔 아빠가 학교에서 조금 떨어진 곳에 내려주시길래.wav|1
+/home/jwyang/dataset/yuhuiyeol/2414.wav|텃밭에서 가꾼 배추며.wav|1
+/home/jwyang/dataset/yuhuiyeol/2077.wav|유희열과 윤성현의 에헤라 신토불이 이런거 하고 있나요.wav|1
+/home/jwyang/dataset/yuhuiyeol/2769.wav|밥먹고 돌아오니 어떤 나쁜사람이 정말 아주 나쁜사람이.wav|1
+/home/jwyang/dataset/yuhuiyeol/0699.wav|예전에 살던 동넨거죠 거긴 친척들도 있고 예전에 또 알던 뭐 오빠들도 있고.wav|1
+/home/jwyang/dataset/yuhuiyeol/2373.wav|천팔백년도 후반이었나 천구백년도 초반이었나.wav|1
+/home/jwyang/dataset/yuhuiyeol/2841.wav|아무도 모르던 내 비밀 이야기 며칠 전 사랑하는 그와 이별여행을 다녀왔습니다 아름답던 삿포로.wav|1
+/home/jwyang/dataset/yuhuiyeol/1647.wav|반드시 다시 찾아온다 라는 걸 녀석이 깨닫게 된다면 좋겠다.wav|1
+/home/jwyang/dataset/yuhuiyeol/2120.wav|이동진 기자는 평론가 출신 영화감독으로써.wav|1
+/home/jwyang/dataset/yuhuiyeol/1328.wav|꿈에 그런 모습 보니까 정말 무서웠어요.wav|1
+/home/jwyang/dataset/yuhuiyeol/0757.wav|울고있는 가수를 보며 웬 청승이냐고 혀를 찼었잖아.wav|1
+/home/jwyang/dataset/yuhuiyeol/2863.wav|어 사공일공님이 저 오빠 때려주고 싶어요.wav|1
+/home/jwyang/dataset/yuhuiyeol/0432.wav|문득 겨울에 내리니까 겨울비라 불러쥐도 되는건가.wav|1
+/home/jwyang/dataset/yuhuiyeol/0965.wav|추억 속에 묻힌 지나간 사랑에 대한 그리움일지도 모르겠습니다.wav|1
+/home/jwyang/dataset/yuhuiyeol/2563.wav|그 분 성격이 약간 직설적이고 말을 내뱉음에 있어서 상대방 기분을 조금 가리지 않아서.wav|1
+/home/jwyang/dataset/yuhuiyeol/2043.wav|왠지 좀 칠십년대 팔십년대 때 분위기를 내고 싶어서.wav|1
+/home/jwyang/dataset/yuhuiyeol/2702.wav|당신이 삿포로에서 내내 내 손을 꼭 잡고 언제나 내 사진을 담기만 하던 당신이.wav|1
+/home/jwyang/dataset/yuhuiyeol/1737.wav|생일 축하한다고 한 마디만 해주세요 희열님 하고 보내주셨습니다.wav|1
+/home/jwyang/dataset/yuhuiyeol/2558.wav|군대에 있을때 훈련소에서 한번 자대배치 받은 후 종종 편지가 왔었어요.wav|1
+/home/jwyang/dataset/yuhuiyeol/0532.wav|설마 대학을 못갈 운명 이런 생각도 들더라구요.wav|1
+/home/jwyang/dataset/yuhuiyeol/1184.wav|그냥 왠 연인들인 줄 알았는데 그런 줄 알았는데.wav|1
+/home/jwyang/dataset/yuhuiyeol/2695.wav|다른 분들이 보시면 밤에 어디 등산 가시는줄 아셨을 꺼예요.wav|1
+/home/jwyang/dataset/yuhuiyeol/0597.wav|아무리 밀쳐내봐도 일어날 생각을 안해요.wav|1
+/home/jwyang/dataset/yuhuiyeol/2915.wav|원래 손재주도 없고 여성스러운 성격도 아닌지라 저는 제가 목도리를 뜰 줄은 생각도 못했었어요.wav|1
+/home/jwyang/dataset/yuhuiyeol/2074.wav|원하는 대학에 진학을 하기위해.wav|1
+/home/jwyang/dataset/yuhuiyeol/2953.wav|이천십년 사랑노래 한번 이렇게 쫙 정리 해보도록 할께요.wav|1
+/home/jwyang/dataset/yuhuiyeol/1917.wav|어린 애처럼 순수하시고.wav|1
+/home/jwyang/dataset/yuhuiyeol/0544.wav|손뻗으면 닿을 곳에 있는 사람들이 나를 도와줄 것이라는 걸 알지만.wav|1
+/home/jwyang/dataset/yuhuiyeol/0045.wav|공항에서 맞는 이별이란 제목으로 올려주셨네요.wav|1
+/home/jwyang/dataset/yuhuiyeol/0320.wav|다들 뛰고있는데 나만 걷고있는 것 같애가지고 무서울 때도 있죠.wav|1
+/home/jwyang/dataset/yuhuiyeol/2648.wav|근데 운치 있게도 김광민씨 피아니스트 김광민씨가 등대까지 쫙 걸어 가시더니 갑자기 품안에서 뭘 딱 꺼내시는 거예요.wav|1
+/home/jwyang/dataset/yuhuiyeol/1276.wav|그리고 엄마는 무조건 내가 주는 선물에 기뻐하실 거라는 것도 아니까.wav|1
+/home/jwyang/dataset/yuhuiyeol/0298.wav|네 지금 고생하고 계실 거 같은데.wav|1
+/home/jwyang/dataset/yuhuiyeol/0636.wav|어느 날 우연히 자주 가던 거리에서 영화처럼 만나기도 했었습니다.wav|1
+/home/jwyang/dataset/yuhuiyeol/0047.wav|괜시리 두려워집니다.wav|1
+/home/jwyang/dataset/yuhuiyeol/0708.wav|오늘 저녁에 엄마는 엠알아이 검사 비용을 걱정하셨다.wav|1
+/home/jwyang/dataset/yuhuiyeol/1166.wav|그 한시간 거리에 버스 정류장은 단 두개.wav|1
+/home/jwyang/dataset/yuhuiyeol/2770.wav|방송 끝나고 집에 돌아가는 길에 너무 추워서.wav|1
+/home/jwyang/dataset/yuhuiyeol/0533.wav|설마 동명이인은 아니시죠.wav|1
+/home/jwyang/dataset/yuhuiyeol/2938.wav|이렇게 나름대로 짐을 잘 챙겨서 거실로 나오는데 문제가 하나 생겼다.wav|1
+/home/jwyang/dataset/yuhuiyeol/2326.wav|지금 전국의 모든 수험생들이 이런 생각을 하고 있을까요.wav|1
+/home/jwyang/dataset/yuhuiyeol/1527.wav|따거 저 다음주 화요일 여의도에 형님 뵈러가요.wav|1
+/home/jwyang/dataset/yuhuiyeol/2568.wav|그 소설속 남자 주인공이 그런 말을 해요 내 옆을 스쳐 앞서 달려가는 차들은 왠지 이십대가 모는 차 같고.wav|1
+/home/jwyang/dataset/yuhuiyeol/1180.wav|그냥 그 자리에서 보내주셨는데 어머님이 깜빡 하시고서.wav|1
+/home/jwyang/dataset/yuhuiyeol/2075.wav|유부녀 친구들과 대화를 할 때는 그 내용을 이해하려고 하지말고 맞장구만 쳐줘라.wav|1

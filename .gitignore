@@ -4,3 +4,10 @@ data/*
 outdir*
 waveglow/*
 logs/*
+dist_logs/*
+*.ipynb
+outdir_*
+outputs/*
+!outputs
+uploads/*
+!uploads

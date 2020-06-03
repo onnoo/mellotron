@@ -1,4 +1,5 @@
 import time
+import os
 import torch
 import sys
 import subprocess
@@ -10,9 +11,13 @@ workers = []
 job_id = time.strftime("%Y_%m_%d-%H%M%S")
 argslist.append("--group_name=group_{}".format(job_id))
 
+logs = 'dist_logs'
+
 for i in range(num_gpus):
     argslist.append('--rank={}'.format(i))
-    stdout = None if i == 0 else open("logs/{}_GPU_{}.log".format(job_id, i),
+    if not os.path.isdir(logs):
+        os.mkdir(logs)
+    stdout = None if i == 0 else open(logs +"/{}_GPU_{}.log".format(job_id, i),
                                       "w")
     print(argslist)
     p = subprocess.Popen([str(sys.executable)]+argslist, stdout=stdout)

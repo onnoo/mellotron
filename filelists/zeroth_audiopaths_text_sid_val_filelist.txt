@@ -1,32 +1,33 @@
-/home/jwyang/dataset/path_to_zeroth/114/114_003_2116.wav|건물 유리창마다 붉은 글씨로 학과 통폐합에 반대한다는 문구가 선명하게 쓰여있습니다|114
-/home/jwyang/dataset/path_to_zeroth/152/152_003_1937.wav|무슨 기준으로 어디는 그렇게 가혹하게 하고 어디는 빚을 탕감해주고|152
+/home/jwyang/dataset/path_to_kss/4/4_2788.wav|저희는 아침 식사를 무료로 제공합니다.|0
 /home/jwyang/dataset/path_to_zeroth/183/183_003_2500.wav|안 의원의 선진화법 개정 찬성 주장으로 현재 정국 이슈로 부상한 선진화법 논의에 변화가 뒤따를지 주목된다|183
-/home/jwyang/dataset/path_to_zeroth/184/184_003_1908.wav|다만 다른 건 두렵지 않은데 내가 조두순 사건의 피해자라는 걸 주변 사람들이 아는 것이 스트레스라고 말한다|184
-/home/jwyang/dataset/path_to_zeroth/185/185_003_2103.wav|결혼 제도에 폭풍이 불어 닥치고 있는 현 상황에서 우리는 자신을 보호하고 진정으로 행복한 결혼 생활을 지속적으로 즐기기 위해 어떻게 할 수 있습니까|185
-/home/jwyang/dataset/path_to_zeroth/186/186_003_2261.wav|한우는 육질에 따라 일 플러스 플러스부터 등급을 매깁니다|186
-/home/jwyang/dataset/path_to_zeroth/187/187_003_2157.wav|후속 대책으로 판매 제품 전량을 신제품으로 교환하기로 했다|187
-/home/jwyang/dataset/path_to_zeroth/188/188_003_2524.wav|이어 어린 시절부터 저는 외증조부의 미담을 들으며 자라왔습니다|188
-/home/jwyang/dataset/path_to_zeroth/189/189_003_2626.wav|그 기사에서 말한 대로 그렇게 하는 것은 도전이 되는 일입니다|189
-/home/jwyang/dataset/path_to_zeroth/190/190_003_2183.wav|렌치가 미끄러져 빠져나가면 내 손은 어디로 가게 될까 하고 자문해 보십시오|190
-/home/jwyang/dataset/path_to_zeroth/191/191_003_2650.wav|그녀는 그 과정을 힘들어 하지 않고 재밌게 받아들인다|191
 /home/jwyang/dataset/path_to_zeroth/192/192_003_1922.wav|중력파 천문학이 기존 천문학과 다른 점은 중력파로 볼 수 있는 현상은 터지기를 기다려야 한다|192
-/home/jwyang/dataset/path_to_zeroth/193/193_003_2276.wav|그는 불안한 마음이 없진 않지만 생활비로 월 육십 만원만 쓰기 때문에 일 년은 별걱정 없다|193
-/home/jwyang/dataset/path_to_zeroth/194/194_003_2570.wav|한겨울 간식거리인 호빵과 즉석어묵도 매출이 전년대비 이십 에서 삼십 퍼센트 감소했다|194
-/home/jwyang/dataset/path_to_zeroth/195/195_003_2614.wav|그 때는 도청이었지만 이제는 감청이 되는 것이고 그것도 국정원장이 테러로 의심하면 가능해지는 것이다|195
-/home/jwyang/dataset/path_to_zeroth/196/196_003_1927.wav|하지만 지난 삼 년동안 익선동에서 살았던 원주민의 경우 매년 백 명 넘게 이곳을 떠났다|196
-/home/jwyang/dataset/path_to_zeroth/197/197_003_2081.wav|그리고 세대주가 사망이나 퇴직으로 긴급한 생활자금이 필요하다 이런 분들은 만기 일시 상환대출이 허용된다 이렇게 보시면 되겠습니다|197
+/home/jwyang/dataset/path_to_zeroth/216/216_003_2342.wav|알려져 있는 모든 질병의 삼 분의 이 즉 약 이 만 종의 질병에는 현재까지 원인을 치료할 방법이 없다|216
+/home/jwyang/dataset/path_to_zeroth/187/187_003_2157.wav|후속 대책으로 판매 제품 전량을 신제품으로 교환하기로 했다|187
+/home/jwyang/dataset/path_to_zeroth/218/218_003_2403.wav|동체 길이로 미뤄 능동주사 위상 배열 레이더의 길이는 열 미터 정도로 저주파 를 발사할 것으로 보인다|218
+/home/jwyang/dataset/path_to_zeroth/209/209_003_2205.wav|트럼프 행정부가 북한에 대한 군사적 압박을 높이는 상황에서 이뤄진 인터뷰인 만큼 한 부상의 입에 관심이 쏠렸습니다|209
 /home/jwyang/dataset/path_to_zeroth/198/198_003_2355.wav|기자 지난해 팔 월 영훈국제중 김하주 이사장은 징역형이 확정됐습니다|198
+/home/jwyang/dataset/path_to_zeroth/194/194_003_2570.wav|한겨울 간식거리인 호빵과 즉석어묵도 매출이 전년대비 이십 에서 삼십 퍼센트 감소했다|194
+/home/jwyang/dataset/path_to_zeroth/184/184_003_1908.wav|다만 다른 건 두렵지 않은데 내가 조두순 사건의 피해자라는 걸 주변 사람들이 아는 것이 스트레스라고 말한다|184
+/home/jwyang/dataset/path_to_zeroth/208/208_003_2211.wav|성북구 정릉 이 동 일대를 다니는 마을버스의 첫 배차는 오후 한 시 삼십 분이었다|208
 /home/jwyang/dataset/path_to_zeroth/199/199_003_2791.wav|휴대폰의 사용으로 인한 사고는 도로에서만 발생하는 것이 아니다|199
+/home/jwyang/dataset/path_to_zeroth/211/211_003_2257.wav|또 분명히 중요한 것은 전국적 지지도 무시할 수 없는 상황이라고 했다|211
+/home/jwyang/dataset/path_to_zeroth/185/185_003_2103.wav|결혼 제도에 폭풍이 불어 닥치고 있는 현 상황에서 우리는 자신을 보호하고 진정으로 행복한 결혼 생활을 지속적으로 즐기기 위해 어떻게 할 수 있습니까|185
+/home/jwyang/dataset/path_to_zeroth/212/212_003_2128.wav|높을수록 습도유지 성능이 우수한 채소실의 보습률은 팔십 팔 퍼센트 구십 사 퍼센트 수준이었다|212
+/home/jwyang/dataset/path_to_zeroth/191/191_003_2650.wav|그녀는 그 과정을 힘들어 하지 않고 재밌게 받아들인다|191
+/home/jwyang/dataset/path_to_zeroth/210/210_003_1847.wav|지에 실린 기사들을 여러 번 다시 읽고 카세트테이프도 여러 번 들었습니다|210
+/home/jwyang/dataset/path_to_zeroth/217/217_003_2773.wav|전셋값이 천정부지로 오르는 상황에서 월세 전환을 유도해서라도 주거 불안을 해소해야 하기 때문이다|217
+/home/jwyang/dataset/path_to_zeroth/152/152_003_1937.wav|무슨 기준으로 어디는 그렇게 가혹하게 하고 어디는 빚을 탕감해주고|152
 /home/jwyang/dataset/path_to_zeroth/200/200_003_1821.wav|삼십 오 세 이상 산모는 느는데출생 후 치료를 받고 있는 신생아|200
+/home/jwyang/dataset/path_to_zeroth/197/197_003_2081.wav|그리고 세대주가 사망이나 퇴직으로 긴급한 생활자금이 필요하다 이런 분들은 만기 일시 상환대출이 허용된다 이렇게 보시면 되겠습니다|197
+/home/jwyang/dataset/path_to_zeroth/189/189_003_2626.wav|그 기사에서 말한 대로 그렇게 하는 것은 도전이 되는 일입니다|189
+/home/jwyang/dataset/path_to_zeroth/186/186_003_2261.wav|한우는 육질에 따라 일 플러스 플러스부터 등급을 매깁니다|186
+/home/jwyang/dataset/path_to_zeroth/188/188_003_2524.wav|이어 어린 시절부터 저는 외증조부의 미담을 들으며 자라왔습니다|188
 /home/jwyang/dataset/path_to_zeroth/201/201_003_1597.wav|이런 사람이 해경 전 직원을 챙기는 청장 자리에 있었다는 게 대한민국 국민 한 사람으로서 정말 부끄럽다|201
 /home/jwyang/dataset/path_to_zeroth/204/204_003_2780.wav|혹시 가능하다면 성서를 한 부 구할 수 있는지 궁금합니다|204
+/home/jwyang/dataset/path_to_zeroth/196/196_003_1927.wav|하지만 지난 삼 년동안 익선동에서 살았던 원주민의 경우 매년 백 명 넘게 이곳을 떠났다|196
 /home/jwyang/dataset/path_to_zeroth/207/207_003_2352.wav|빨치산 가문에서 태어난 태 공사는 고등중학교 재학 중 중국으로 건너가 영어와 중국어를 배운 것으로 전해졌다|207
-/home/jwyang/dataset/path_to_zeroth/208/208_003_2211.wav|성북구 정릉 이 동 일대를 다니는 마을버스의 첫 배차는 오후 한 시 삼십 분이었다|208
-/home/jwyang/dataset/path_to_zeroth/209/209_003_2205.wav|트럼프 행정부가 북한에 대한 군사적 압박을 높이는 상황에서 이뤄진 인터뷰인 만큼 한 부상의 입에 관심이 쏠렸습니다|209
-/home/jwyang/dataset/path_to_zeroth/210/210_003_1847.wav|지에 실린 기사들을 여러 번 다시 읽고 카세트테이프도 여러 번 들었습니다|210
-/home/jwyang/dataset/path_to_zeroth/211/211_003_2257.wav|또 분명히 중요한 것은 전국적 지지도 무시할 수 없는 상황이라고 했다|211
-/home/jwyang/dataset/path_to_zeroth/212/212_003_2128.wav|높을수록 습도유지 성능이 우수한 채소실의 보습률은 팔십 팔 퍼센트 구십 사 퍼센트 수준이었다|212
+/home/jwyang/dataset/path_to_zeroth/195/195_003_2614.wav|그 때는 도청이었지만 이제는 감청이 되는 것이고 그것도 국정원장이 테러로 의심하면 가능해지는 것이다|195
+/home/jwyang/dataset/path_to_zeroth/193/193_003_2276.wav|그는 불안한 마음이 없진 않지만 생활비로 월 육십 만원만 쓰기 때문에 일 년은 별걱정 없다|193
+/home/jwyang/dataset/path_to_zeroth/114/114_003_2116.wav|건물 유리창마다 붉은 글씨로 학과 통폐합에 반대한다는 문구가 선명하게 쓰여있습니다|114
 /home/jwyang/dataset/path_to_zeroth/215/215_003_2080.wav|지난해 국내 연구개발과 디자인 직군에만 시범 실시했는데 업무 효율성이 높아지고 직원 만족도가 높아 회사 전체로 확대한 겁니다|215
-/home/jwyang/dataset/path_to_zeroth/216/216_003_2342.wav|알려져 있는 모든 질병의 삼 분의 이 즉 약 이 만 종의 질병에는 현재까지 원인을 치료할 방법이 없다|216
-/home/jwyang/dataset/path_to_zeroth/217/217_003_2773.wav|전셋값이 천정부지로 오르는 상황에서 월세 전환을 유도해서라도 주거 불안을 해소해야 하기 때문이다|217
-/home/jwyang/dataset/path_to_zeroth/218/218_003_2403.wav|동체 길이로 미뤄 능동주사 위상 배열 레이더의 길이는 열 미터 정도로 저주파 를 발사할 것으로 보인다|218
+/home/jwyang/dataset/path_to_zeroth/190/190_003_2183.wav|렌치가 미끄러져 빠져나가면 내 손은 어디로 가게 될까 하고 자문해 보십시오|190

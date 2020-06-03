@@ -486,4 +486,5 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument('-f', "--filepath", required=True)
     args = parser.parse_args()
-    get_data_from_musicxml(args.filepath, 60)
+    with open('hansae/xmltest.text','w') as f:
+        f.write(str(get_data_from_musicxml(args.filepath, 60)))
