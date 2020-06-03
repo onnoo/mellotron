@@ -1,0 +1,30 @@
+/home/jwyang/dataset/test_set/test_male.wav|어깨는 꾸준히 단련 해야 하는 법|0
+/home/jwyang/dataset/test_set/test_female.wav|누군가 말했죠 전체는 부분의 합보다 더 큰 법이라고요|0
+/home/jwyang/mellotron/data/news1.wav|여러분 안녕하십니까 이월 십육일 일요일 엠비씨 뉴스입니다|0
+/home/jwyang/mellotron/data/news2.wav|국내 코로나일구 확진 환자가 엿새만에 추가 확인 돼 모두 스물 아홉명으로 늘었습니다|0
+/home/jwyang/mellotron/data/news3.wav|스물 아홉번째 추가 확진 환자는 최근 해외 여행을 간 적이 없는 여든 두살의 한국인 남성으로 확인됐습니다|0
+/home/jwyang/dataset/test_set/hanul.wav|오늘은 제가 녹음일을 하면서 맡는 아주 공통된 캐릭터들을 보여드릴게요|0
+/home/jwyang/dataset/test_set/jin1.wav|근데 이 기술을 어떻게 익히셨을까 궁금했습니다|0
+/home/jwyang/dataset/test_set/news3.wav|빼곡하게 줄이 늘어선 한 행사장 입니다 자세히 보면 머리가 희끗한 노인들이 보입니다|0
+/home/jwyang/dataset/test_set/news4.wav|일자리를 구하려고 취업 박람회를 찾은겁니다|0
+/home/jwyang/dataset/test_set/news5.wav|삼십퍼 센트 가량인 서른두개 노선의 운항을 재개한다고 공지했습니다|0
+/home/jwyang/dataset/test_set/news6.wav|코로나 일구로 멈춰섰던 스포츠도 차츰 돌아오고 있습니다|0
+/home/jwyang/dataset/test_set/cam.wav|카메라 앞에서 연행됬습니다|0
+/home/jwyang/dataset/test_set/BBC_1.wav|경찰에게 진압당하다 목숨을 잃은데서 비롯됬습니다|0
+/home/jwyang/dataset/test_set/BBC_2.wav|경찰의 지시대로 자리를 옮기지 않았다는 이유로|0
+/home/jwyang/dataset/test_set/BBC_3.wav|그가 실제로 위조 지폐를 썻는지는 확인되지 않았습니다|0
+/home/jwyang/dataset/test_set/BBC_4.wav|당시 경찰은 플로이드가 위조 지폐를 사용한 것 같다는 상점 주인의 신고를 받고 출동했는데|0
+/home/jwyang/dataset/test_set/BBC_5.wav|미국에서 흑인이 백인 경찰에 의해 목숨을 잃은건 이번이 처음이 아닙니다|0
+/home/jwyang/dataset/test_set/BBC_6.wav|생방송중이던 미국 씨엔엔 방송 기자도|0
+/home/jwyang/dataset/test_set/BBC_7.wav|이지역 흑인 주민인 마흔여섯살 조지 플로이드가|0
+/home/jwyang/dataset/test_set/ohnagi.wav|너무하네 남자들은 그 마음이 없어도 가능하다면서요 왜이렇게 비싸게 굴어요|0
+/home/jwyang/dataset/test_set/gichim.wav|누구인가 누가 기침소리를 내었어|0
+/home/jwyang/dataset/test_set/gichim2.wav|누가 기침소리를 내었는가 말이야|0
+/home/jwyang/dataset/test_set/tanyou.wav|이거 방탄유리야 이 개새끼야|0
+/home/jwyang/dataset/test_set/ue.wav|어이가 없네|0
+/home/jwyang/dataset/test_set/sujang.wav|내가 임마 느그 서장이랑 임마 어저께도 어 같이 밥 묵고 어 사우나도 같이 가고 어|0
+/home/jwyang/dataset/test_set/find.wav|난 걔랑 사귀고 싶은데 자신도 없고 어떻게 해야 좋을 지 모르겠어|0
+/home/jwyang/dataset/test_set/fo.wav|어이쿠 인사말 기능을 잘못 입력했나봐 이를 어쩐다 고칠 시간이 없는데|0
+/home/jwyang/dataset/test_set/ttle.wav|누군가 말했죠 더 큰 법이라고요|0
+/home/jwyang/dataset/test_set/youhear.wav|안녕하세요 저는 김태오씨가 말한 음성을 변환한 유희열입니다|0
+/home/jwyang/dataset/test_set/clao.wav|안녕 클레오 파트라|0

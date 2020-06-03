@@ -26,6 +26,12 @@ def create_hparams(hparams_string=None, verbose=False):
         ################################
         training_files='filelists/kss_audiopaths_text_sid_train_filelist.txt',
         validation_files='filelists/kss_audiopaths_text_sid_val_filelist.txt',
+        # training_files='filelists/zeroth_audiopaths_text_sid_train_filelist.txt',
+        # validation_files='filelists/zeroth_audiopaths_text_sid_val_filelist.txt',
+        # training_files='filelists/multi_speaker_train.txt',
+        # validation_files='filelists/multi_speaker_valid.txt',
+        # training_files='filelists/yuhuiyeol_audiopaths_text_sid_train_filelist.txt',
+        # validation_files='filelists/yuhuiyeol_audiopaths_text_sid_val_filelist.txt', 
         # training_files='filelists/ljs_audiopaths_text_sid_train_filelist.txt',
         # validation_files='filelists/ljs_audiopaths_text_sid_val_filelist.txt',
         text_cleaners=['korean_cleaners'],
